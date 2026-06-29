@@ -1,4 +1,4 @@
-# 
+# Automatique Yi-Lightning modèles. Avec mémoire contextuelle et interface conviviale — optimisé pour des performances et une efficacité maximales.
 
 
 
